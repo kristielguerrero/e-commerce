@@ -12,3 +12,7 @@ Kristiel Guerrero
 - Github: https://github.com/kristielguerrero
 
 ## Walkthrough Video link
+
+https://drive.google.com/file/d/1G9nlytuAD2J9v3Lu1N8dMHsgFuXjA3To/view
+
+- Github repository: https://github.com/kristielguerrero/e-commerce
