@@ -1,4 +1,4 @@
-# e-commerce
+# E-commerce
 
 ## Description
 
@@ -7,7 +7,8 @@
 # Contributors
 
 Kristiel Guerrero
--Email: kristyguerrero20@gmail.com
--Github: https://github.com/kristielguerrero
+
+- Email: kristyguerrero20@gmail.com
+- Github: https://github.com/kristielguerrero
 
 ## Walkthrough Video link
